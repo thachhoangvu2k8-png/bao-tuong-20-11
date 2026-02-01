@@ -1,0 +1,49 @@
+
+
+                    /* HEADER */
+header {
+            background: linear-gradient(to right, #2b5876, #4e4376);
+            color: white;
+        }
+
+    
+                   /* CONTENT */
+section {
+            margin-bottom: 30px;
+        }
+
+        section h2 {
+            color: #2b5876;
+            border-left: 5px solid #4e4376;
+            padding-left: 10px;
+        }
+
+        .poem {
+            font-style: italic;
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-left: 4px solid #4e4376;
+        }
+
+                
+                 /* FOOTER */
+        footer {
+            background-color: #2b5876;
+            color: white;
+           
+        }
+
+        footer p {
+            margin: 5px 0;
+        
+        }
+        form {
+         background-color: #f9f9f9;
+
+        }
+        form h2{
+         background-color: or;
+         
+        }
+
+
